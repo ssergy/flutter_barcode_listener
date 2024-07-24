@@ -1,4 +1,5 @@
 # flutter_barcode_listener
+Original repo: https://github.com/shaxxx/flutter_barcode_listener
 
 Listen for any hardware barcode scanner
 
